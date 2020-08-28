@@ -1,0 +1,3 @@
+/Users/danieltorres/CLionProjects/Clasegit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danieltorres/CLionProjects/Clasegit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danieltorres/CLionProjects/Clasegit/cmake-build-debug/CMakeFiles/Clasegit.dir
